@@ -1,0 +1,7 @@
+train: I:\Huge_project\pycharm\YOLO-8.3.32\data\images\train  # train images (relative to 'path') 4 images
+val: I:\Huge_project\pycharm\YOLO-8.3.32\data\images\val  # val images (relative to 'path') 4 images
+
+nc: 2
+
+# class names
+names: ['pussy','breasts']

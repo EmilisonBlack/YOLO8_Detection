@@ -1,0 +1,2 @@
+ENG:add your train pics in this file
+CN：把你的训练图片数据放入这个文件夹，并且删除这个TXT文件
