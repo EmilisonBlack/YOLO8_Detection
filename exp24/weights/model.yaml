@@ -1,0 +1,11 @@
+type: yolov8
+name: my_custom_model
+display_name: My Custom Model
+model_path: best.onnx
+input_width: 640
+input_height: 640
+nms_threshold: 0.45
+confidence_threshold: 0.25
+classes:
+  - pussy
+  - breasts
